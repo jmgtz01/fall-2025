@@ -2,3 +2,6 @@
 class_work
 my_project1
 rustprogramming
+src
+Cargo.lock
+Cargo.toml
